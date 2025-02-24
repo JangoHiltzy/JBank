@@ -1,0 +1,454 @@
+[
+  {
+    "accountNumber": "FI1234567890",
+    "accountHolder": "Aino Virtanen",
+    "balance": 5500.5,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 800.0
+  },
+  {
+    "accountNumber": "FI1122334455",
+    "accountHolder": "Sari Korhonen",
+    "balance": 3000.0,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2300.0,
+    "monthlyExpense": 900.0
+  },
+  {
+    "accountNumber": "FI5566778899",
+    "accountHolder": "Liisa Nieminen",
+    "balance": 2200.1,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 1400.0
+  },
+  {
+    "accountNumber": "FI7788992233",
+    "accountHolder": "Mikael Korhonen",
+    "balance": 3200.7,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2500.0,
+    "monthlyExpense": 1100.0
+  },
+  {
+    "accountNumber": "FI3344556677",
+    "accountHolder": "Eero Koskinen",
+    "balance": 5800.45,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 3500.0,
+    "monthlyExpense": 1800.0
+  },
+  {
+    "accountNumber": "FI6677889900",
+    "accountHolder": "Antti Virtanen",
+    "balance": 4500.6,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 4000.0,
+    "monthlyExpense": 1200.0
+  },
+  {
+    "accountNumber": "FI5566772233",
+    "accountHolder": "Jari Nieminen",
+    "balance": 3700.9,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 1500.0
+  },
+  {
+    "accountNumber": "FI2233441122",
+    "accountHolder": "Tommi Lehtinen",
+    "balance": 7100.2,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 3300.0,
+    "monthlyExpense": 1300.0
+  },
+  {
+    "accountNumber": "FI8899001122",
+    "accountHolder": "Pekka Lahtinen",
+    "balance": 9200.35,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 4500.0,
+    "monthlyExpense": 1800.0
+  },
+  {
+    "accountNumber": "FI6677889900",
+    "accountHolder": "Elina Lehtonen",
+    "balance": 5300.45,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2900.0,
+    "monthlyExpense": 900.0
+  },
+  {
+    "accountNumber": "FI1233211233",
+    "accountHolder": "Anni Savolainen",
+    "balance": 750.0,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 1700.0,
+    "monthlyExpense": 1400.0
+  },
+  {
+    "accountNumber": "FI9988776655",
+    "accountHolder": "Marja Järvinen",
+    "balance": 1000.3,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 1600.0
+  },
+  {
+    "accountNumber": "FI4455667788",
+    "accountHolder": "Hannele Mäkinen",
+    "balance": 8700.5,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 3100.0,
+    "monthlyExpense": 1300.0
+  },
+  {
+    "accountNumber": "FI1122334444",
+    "accountHolder": "Helena Rantanen",
+    "balance": 10050.0,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 5000.0,
+    "monthlyExpense": 1700.0
+  },
+  {
+    "accountNumber": "FI3344556677",
+    "accountHolder": "Kaisa Koskinen",
+    "balance": 1150.2,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 800.0
+  },
+  {
+    "accountNumber": "FI2233445566",
+    "accountHolder": "Aila Salminen",
+    "balance": 300.7,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2100.0,
+    "monthlyExpense": 1600.0
+  },
+  {
+    "accountNumber": "FI5566778899",
+    "accountHolder": "Saara Kallio",
+    "balance": 6000.0,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 4200.0,
+    "monthlyExpense": 2000.0
+  },
+  {
+    "accountNumber": "FI2211223344",
+    "accountHolder": "Matti Tukkanen",
+    "balance": 90000.4,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 12000.0,
+    "monthlyExpense": 4500.0
+  },
+  {
+    "accountNumber": "FI9988776644",
+    "accountHolder": "Ville Kärkkäinen",
+    "balance": 9500.9,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 7000.0,
+    "monthlyExpense": 4400.0
+  },
+  {
+    "accountNumber": "FI6655443322",
+    "accountHolder": "Mikael Väisänen",
+    "balance": 1100.5,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2000.0,
+    "monthlyExpense": 1000.0
+  },
+  {
+    "accountNumber": "FI7788990011",
+    "accountHolder": "Tuomas Leino",
+    "balance": 760.2,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 1700.0,
+    "monthlyExpense": 1400.0
+  },
+  {
+    "accountNumber": "FI3344557766",
+    "accountHolder": "Pekka Koivisto",
+    "balance": 120.6,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 1500.0,
+    "monthlyExpense": 1400.0
+  },
+  {
+    "accountNumber": "FI2233446677",
+    "accountHolder": "Aki Lahtinen",
+    "balance": 6400.3,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 2700.0,
+    "monthlyExpense": 1200.0
+  },
+  {
+    "accountNumber": "FI1122336677",
+    "accountHolder": "Vesa Rintala",
+    "balance": 1300.8,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 3000.0,
+    "monthlyExpense": 2100.0
+  },
+  {
+    "accountNumber": "FI5566771100",
+    "accountHolder": "Raimo Siltanen",
+    "balance": 54009.9,
+    "currency": "EUR",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 9000.0,
+    "monthlyExpense": 3400.0
+  },
+  {
+    "accountNumber": "SE9876543210",
+    "accountHolder": "Erik Johansson",
+    "balance": 12000.75,
+    "currency": "SEK",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 20000.0,
+    "monthlyExpense": 11800.0
+  },
+  {
+    "accountNumber": "SE3344556677",
+    "accountHolder": "Anna Andersson",
+    "balance": 8500.2,
+    "currency": "SEK",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 23000.0,
+    "monthlyExpense": 14000.0
+  },
+  {
+    "accountNumber": "SE2233445566",
+    "accountHolder": "Oskar Karlsson",
+    "balance": 12500.9,
+    "currency": "SEK",
+    "lastUpdated": "2025-02-25T00:00:00",
+    "monthlySalary": 25000.0,
+    "monthlyExpense": 11500.0
+  },
+  [
+    {
+      "accountNumber": "SE9988776655",
+      "accountHolder": "Maja Lindström",
+      "balance": 4000.25,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 18000.0,
+      "monthlyExpense": 8000.0
+    },
+    {
+      "accountNumber": "SE1122334455",
+      "accountHolder": "Lars Olsson",
+      "balance": 92000.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 56000.0,
+      "monthlyExpense": 20800.0
+    },
+    {
+      "accountNumber": "SE2233554466",
+      "accountHolder": "Björn Persson",
+      "balance": 65000.8,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 47000.0,
+      "monthlyExpense": 18000.0
+    },
+    {
+      "accountNumber": "SE5566778899",
+      "accountHolder": "Christer Gustafsson",
+      "balance": 960000.1,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 250000.0,
+      "monthlyExpense": 58000.0
+    },
+    {
+      "accountNumber": "SE6677889900",
+      "accountHolder": "William Söderberg",
+      "balance": 7800.45,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 19000.0,
+      "monthlyExpense": 9400.0
+    },
+    {
+      "accountNumber": "SE7788990011",
+      "accountHolder": "Peter Lundberg",
+      "balance": 5500.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 20000.0,
+      "monthlyExpense": 8000.0
+    },
+    {
+      "accountNumber": "SE3344556677",
+      "accountHolder": "Anders Holm",
+      "balance": 89000.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 39000.0,
+      "monthlyExpense": 14000.0
+    },
+    {
+      "accountNumber": "SE5566778899",
+      "accountHolder": "Klara Bergström",
+      "balance": 7500.1,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 19000.0,
+      "monthlyExpense": 12000.0
+    },
+    {
+      "accountNumber": "SE3344667788",
+      "accountHolder": "Nina Eriksson",
+      "balance": 6700.3,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 29000.0,
+      "monthlyExpense": 13000.0
+    },
+    {
+      "accountNumber": "SE8877665544",
+      "accountHolder": "Tomas Jansson",
+      "balance": 10500.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 32000.0,
+      "monthlyExpense": 20800.0
+    },
+    {
+      "accountNumber": "SE9988776655",
+      "accountHolder": "Ingrid Larsson",
+      "balance": 8000.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 15000.0,
+      "monthlyExpense": 8000.0
+    },
+    {
+      "accountNumber": "SE1122337788",
+      "accountHolder": "Johanna Magnusson",
+      "balance": 73000.5,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 42000.0,
+      "monthlyExpense": 20000.0
+    },
+    {
+      "accountNumber": "SE3344556677",
+      "accountHolder": "Andreas Lundqvist",
+      "balance": 56000.9,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 52000.0,
+      "monthlyExpense": 30000.0
+    },
+    {
+      "accountNumber": "SE2233441122",
+      "accountHolder": "Oscar Eriksson",
+      "balance": 4900.3,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 22000.0,
+      "monthlyExpense": 13000.0
+    },
+    {
+      "accountNumber": "SE5566770011",
+      "accountHolder": "Astrid Olsson",
+      "balance": 7300.8,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 16000.0,
+      "monthlyExpense": 8000.0
+    },
+    {
+      "accountNumber": "SE6677884455",
+      "accountHolder": "Lina Berg",
+      "balance": 8600.25,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 24000.0,
+      "monthlyExpense": 15000.0
+    },
+    {
+      "accountNumber": "SE7788992233",
+      "accountHolder": "Samuel Lindberg",
+      "balance": 6400.15,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 22000.0,
+      "monthlyExpense": 11000.0
+    },
+    {
+      "accountNumber": "SE3344558899",
+      "accountHolder": "Frida Larsson",
+      "balance": 5400.0,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 26000.0,
+      "monthlyExpense": 12000.0
+    },
+    {
+      "accountNumber": "SE5566771122",
+      "accountHolder": "Victor Persson",
+      "balance": 9800.55,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 24000.0,
+      "monthlyExpense": 17000.0
+    },
+    {
+      "accountNumber": "SE9988772211",
+      "accountHolder": "Eva Nilsson",
+      "balance": 6400.45,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 28000.0,
+      "monthlyExpense": 12000.0
+    },
+    {
+      "accountNumber": "SE2233446677",
+      "accountHolder": "Gustav Lundgren",
+      "balance": 71000.25,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 62000.0,
+      "monthlyExpense": 34000.0
+    },
+    {
+      "accountNumber": "SE1122338899",
+      "accountHolder": "Karin Svensson",
+      "balance": 85000.8,
+      "currency": "SEK",
+      "lastUpdated": "2025-02-25T00:00:00",
+      "monthlySalary": 69000.0,
+      "monthlyExpense": 31000.0
+    }
+  ]
+]
