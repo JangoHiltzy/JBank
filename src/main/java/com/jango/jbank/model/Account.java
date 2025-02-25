@@ -1,6 +1,7 @@
 package com.jango.jbank.model;
 
 import java.time.LocalDateTime;
+import java.time.temporal.ChronoUnit;
 
 public class Account {
     private String accountNumber;
@@ -27,6 +28,25 @@ public class Account {
         this.monthlyExpense = monthlyExpense;
     }
 
+    // SIMULATED TIME-BASED BALANCE UPDATE
+    public void updateBalance() {
+        LocalDateTime now = LocalDateTime.now();
+        long monthsPassed = ChronoUnit.MINUTES.between(lastUpdated, now); // 1 real-life minute = 1 month in app
+
+        if (monthsPassed > 0) {
+            // Apply salary and expenses for each month passed
+            balance += (monthlySalary - monthlyExpense) * monthsPassed;
+
+            // Ensure balance doesn't go negative
+            if (balance < 0) {
+                balance = 0;
+            }
+
+            // Update lastUpdated timestamp
+            lastUpdated = now;
+        }
+    }
+
     // GETTERS AND SETTERS
     public String getAccountNumber() {
         return accountNumber;
@@ -45,6 +65,7 @@ public class Account {
     }
 
     public double getBalance() {
+        updateBalance(); // Ensure balance is updated before returning
         return balance;
     }
 
@@ -89,7 +110,7 @@ public class Account {
         return "Account{" +
                 "accountNumber='" + accountNumber + '\'' +
                 ", accountHolder='" + accountHolder + '\'' +
-                ", balance=" + balance +
+                ", balance=" + getBalance() + // Ensure updated balance
                 ", currency='" + currency + '\'' +
                 ", lastUpdated=" + lastUpdated +
                 ", monthlySalary=" + monthlySalary +
